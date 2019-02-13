@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../idea.srcs/sources_1/new/calc_inversMod.vhd" \
+"../../../../idea.srcs/sources_1/new/cla16bit.vhd" \
+"../../../../idea.srcs/sources_1/new/cla20bit.vhd" \
+"../../../../idea.srcs/sources_1/new/cla4bit.vhd" \
+"../../../../idea.srcs/sources_1/new/comp.vhd" \
+"../../../../idea.srcs/sources_1/new/key_decryption.vhd" \
+"../../../../idea.srcs/sources_1/new/key_encryption.vhd" \
+"../../../../idea.srcs/sources_1/new/key_schedule.vhd" \
+"../../../../idea.srcs/sources_1/new/mult1.vhd" \
+"../../../../idea.srcs/sources_1/new/multiplication1.vhd" \
+"../../../../idea.srcs/sim_1/new/sim_key_encrypt.vhd" \
+
+# Do not sort compile order
+nosort
